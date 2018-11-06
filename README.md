@@ -25,7 +25,7 @@ Once a company (restaurant location) is selected, hours for each employee are en
 
 ![pte_0930-time-entry-screen_pix_border](https://user-images.githubusercontent.com/23184069/47985268-ba4f1680-e09e-11e8-8b79-1b23795b9a1e.jpg "Screen for coding hours")
 
-In the case below my application indicates a descrepency that needs attention. Aloha reports hours for two employees that aren't active in MAS for some reason. This will need to be corrected, obviously.     
+In the case below my application indicates a descrepency that needs attention. Aloha reports hours for two employees that aren't active in MAS 90 for some reason. This will need to be corrected, obviously.     
 
 ![pte_0615_aloha_inactive_pix_border](https://user-images.githubusercontent.com/23184069/47985208-8d026880-e09e-11e8-8818-7c33ea608b3c.jpg "Coding more hours")
 
